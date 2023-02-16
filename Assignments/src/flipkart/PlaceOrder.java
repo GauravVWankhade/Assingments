@@ -89,5 +89,6 @@ public class PlaceOrder {
 	@AfterMethod
 	public void tearDown() {
 		driver.quit();
+		
 	}
 }
